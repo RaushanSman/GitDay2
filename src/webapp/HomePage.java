@@ -8,4 +8,6 @@ public class HomePage {
 
     //more things added for the home page
     // logo
+
+    //1 more change for merge
 }
